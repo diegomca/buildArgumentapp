@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eb9a94e3.chunk.css",
+    "main.js": "/static/js/main.91911614.chunk.js",
+    "main.js.map": "/static/js/main.91911614.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8c487116.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8c487116.js.map",
+    "static/css/2.408db807.chunk.css": "/static/css/2.408db807.chunk.css",
+    "static/js/2.a3b0fe20.chunk.js": "/static/js/2.a3b0fe20.chunk.js",
+    "static/js/2.a3b0fe20.chunk.js.map": "/static/js/2.a3b0fe20.chunk.js.map",
+    "static/js/3.c26d7c2e.chunk.js": "/static/js/3.c26d7c2e.chunk.js",
+    "static/js/3.c26d7c2e.chunk.js.map": "/static/js/3.c26d7c2e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.408db807.chunk.css.map": "/static/css/2.408db807.chunk.css.map",
+    "static/css/main.eb9a94e3.chunk.css.map": "/static/css/main.eb9a94e3.chunk.css.map",
+    "static/js/2.a3b0fe20.chunk.js.LICENSE.txt": "/static/js/2.a3b0fe20.chunk.js.LICENSE.txt",
+    "static/js/main.91911614.chunk.js.LICENSE.txt": "/static/js/main.91911614.chunk.js.LICENSE.txt",
+    "static/media/LogoNuevo.cced515e.svg": "/static/media/LogoNuevo.cced515e.svg",
+    "static/media/LogoNuevoConLetras.ee8cb006.svg": "/static/media/LogoNuevoConLetras.ee8cb006.svg",
+    "static/media/default_icon_clases.15c380bc.png": "/static/media/default_icon_clases.15c380bc.png",
+    "static/media/default_icon_curso_2.cdc5e58b.png": "/static/media/default_icon_curso_2.cdc5e58b.png",
+    "static/media/img-crear-y-hacer-clases.75108cdc.svg": "/static/media/img-crear-y-hacer-clases.75108cdc.svg",
+    "static/media/img-que-es-argumentapp.05bc2cdf.svg": "/static/media/img-que-es-argumentapp.05bc2cdf.svg",
+    "static/media/img-transformando-la-ensenianza.5e8203fe.svg": "/static/media/img-transformando-la-ensenianza.5e8203fe.svg",
+    "static/media/login_background.049db921.png": "/static/media/login_background.049db921.png",
+    "static/media/logo-argumentapp-c.22beb7c3.svg": "/static/media/logo-argumentapp-c.22beb7c3.svg",
+    "static/media/logo.1094c30a.png": "/static/media/logo.1094c30a.png",
+    "static/media/index.css": "/static/media/poppins-v20-latin-regular.f61407da.woff",
+    "static/media/uc.2b630ae3.png": "/static/media/uc.2b630ae3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c487116.js",
+    "static/css/2.408db807.chunk.css",
+    "static/js/2.a3b0fe20.chunk.js",
+    "static/css/main.eb9a94e3.chunk.css",
+    "static/js/main.91911614.chunk.js"
+  ]
+}
